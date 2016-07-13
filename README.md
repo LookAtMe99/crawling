@@ -2,7 +2,7 @@
 crawling awesome web site collections
 
 ###crawling basic
-
+- https://github.com/radajin/crawling/blob/master/crawling_basic.ipynb
 - requests
     - get json data using api
 
