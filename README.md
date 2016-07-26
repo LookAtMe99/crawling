@@ -1,7 +1,7 @@
 # crawling
 crawling awesome web site collections
 
-### install package
+### install packages
 ```
 $ pip install requests
 $ pip install bs4
@@ -9,7 +9,7 @@ $ pip install selenium
 $ brew install phantomjs
 ```
 
-###crawling basic
+### crawling_basic.ipython
 - https://github.com/radajin/crawling/blob/master/crawling_basic.ipynb
 - requests
     - get json data using api
