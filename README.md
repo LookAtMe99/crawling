@@ -1,6 +1,14 @@
 # crawling
 crawling awesome web site collections
 
+### install package
+```
+$ pip install requests
+$ pip install bs4
+$ pip install selenium
+$ brew install phantomjs
+```
+
 ###crawling basic
 - https://github.com/radajin/crawling/blob/master/crawling_basic.ipynb
 - requests
