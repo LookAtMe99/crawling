@@ -29,3 +29,9 @@ $ brew install phantomjs
 - screenshot
     - screeenshot base64
     - base64 image save and load
+
+### default path 
+- mac : "./"
+    setting sample) ./data/images
+- win : ""
+    setting sample) data/images
