@@ -32,6 +32,6 @@ $ brew install phantomjs
 
 ### default path 
 - mac : "./"
-    setting sample) ./data/images
+    - setting sample) ./data/images
 - win : ""
-    setting sample) data/images
+    - setting sample) data/images
