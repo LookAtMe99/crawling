@@ -1,7 +1,23 @@
-# crawling
-crawling awesome web site collections
+# pre-condition
+- use python 3.6
+- use jupyter notebook
 
-### install packages
+
+### install packages (win)
+> pip install requests
+> pip install bs4
+> pip install selenium
+> pip install jupyter 
+
+### install phantomjs & chromedriver (win)
+- phantomjs
+	- download link : http://phantomjs.org/download.html
+	- decompress & add path
+- chromedriver
+	- download link : https://sites.google.com/a/chromium.org/chromedriver/downloads
+	- decompress & move \python\Scripts
+
+### install packages (mac)
 ```
 $ pip install requests
 $ pip install bs4
